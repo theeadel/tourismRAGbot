@@ -1,9 +1,9 @@
 # tourismRAGbot
 touristRAGbot is a smart, context-aware chatbot designed to recommend adventure and travel activities across Lebanon. It leverages a combination of LLMs (like Mistral-7B), FastAPI, and PostgreSQL to generate intelligent, exciting trip suggestions using a Retrieval-Augmented Generation (RAG) architecture.
 
-# 🧭 Adventura RAGbot
+# 🧭 tourism RAGbot
 
-**Adventura RAGbot** is a smart, context-aware chatbot designed to recommend adventure and travel activities across Lebanon. It uses a combination of **Large Language Models (LLMs)**, **FastAPI**, **PostgreSQL**, and **RAG pipelines** to generate personalized and real-time suggestions for users.
+**tourism RAGbot** is a smart, context-aware chatbot designed to recommend adventure and travel activities across Lebanon. It uses a combination of **Large Language Models (LLMs)**, **FastAPI**, **PostgreSQL**, and **RAG pipelines** to generate personalized and real-time suggestions for users.
 
 ---
 
@@ -57,7 +57,7 @@ touristRAGbot is a smart, context-aware chatbot designed to recommend adventure 
 ## 📁 Folder Structure
 
 ```
-Adventura-RAGbot/
+tourist-RAGbot/
 ├── main.py                # Main FastAPI + RAG logic
 ├── requirements.txt       # Required Python packages
 ├── README.md              # Project description
